@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726925604 source:c:\cs\abs value\main.c
+	<stdio.h>
+	<stdlib.h>
+
