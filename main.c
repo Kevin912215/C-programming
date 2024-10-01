@@ -3,15 +3,13 @@
 
 int main()
 {
-    int a;
-    printf("Please input a value:");
-    scanf("%d",&a);
-    if(a < 0)
-    {
-        a= -a;
-        printf("The abs value is: %d", a);
-    }
-    else
-    printf("The abs value is:%d", a);
+    char K;
+    char W;
+    printf("Please input a character:\n");
+    scanf("%c%c",&K,&W);
+    printf("My name is %c,%c\n", K,W);
+    /*printf("Please input a character!\n");
+    scanf("%c",&W);
+    printf("My name is %c", W);*/
     return 0;
 }
