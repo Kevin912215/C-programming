@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725205234 source:c:\cs\input sbs name\main.c
+	<stdio.h>
+	<stdlib.h>
+
