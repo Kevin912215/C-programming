@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726930000 source:c:\cs\finding zero point\main.c
+	<stdio.h>
+	<stdlib.h>
+
