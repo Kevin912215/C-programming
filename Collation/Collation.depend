@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1736084235 source:c:\cs\collation\main.c
+	<stdio.h>
+	<stdlib.h>
+
