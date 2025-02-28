@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1736693714 source:c:\cs\sum of the squares of all positive numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
