@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744554851 source:c:\cs\parabolic equation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
