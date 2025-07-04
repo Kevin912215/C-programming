@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1749999548 source:c:\cs\reading and displaying strings\main.c
+	<stdio.h>
+	<stdlib.h>
+
